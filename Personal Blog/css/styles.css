@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    /* padding-top: 200px; */
+    background-color:#FFEAC9;
+    font-family: 'Truculenta', sans-serif;
+}
+
+h1 {
+    /* 16px == 100% == 1em */
+    font-size: 80px;
+    margin: 0 auto 0 auto;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+/* h2{
+    font-size: ;
+} */
+
+.Pro{
+    text-decoration: underline;
+}
+
+.top-container {
+    padding-top: 50px;
+}
+
+.middle-container .profile img{
+    position: absolute;
+    top: 40px;
+    left: 60px;
+
+    width: 20%;
+    height: auto;
+}
+
+
+.middle-container .Engineering, .Coding, .Project-Management{
+    width: 10%;
+    height: auto;
+}
+
+
+/* .bottom-container {
+
+} */
+
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+
+
